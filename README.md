@@ -78,15 +78,3 @@ The torrent client has the following limitations:
 These limitations outline the current scope of the torrent client and represent areas where future improvements or additional features could be considered.
 
 In summary, the project delivers a functional and efficient torrent client, demonstrating prowess in efficient file transfers, accurate parsing, robust communication, and resilience in the face of errors.
-
-## Group Members
-
-| Name           | ID          | Section |
-| -------------- | ----------- | ------- |
-| Bilen Mehalek  | UGR/0252/13 | 1       |
-| Daniel Tilahun | UGR/2557/13 | 1       |
-| Dawit Minale   | UGR/7990/13 | 2       |
-| Rihana Ersanu  | UGR/8031/13 | 2       |
-| Robel Tesfaye  | UGR/8429/13 | 1       |
-
-[GitHub Repo](https://github.com/Danitilahun/Bit_Torrent)
